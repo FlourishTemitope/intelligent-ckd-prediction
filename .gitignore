@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Word documents and PDFs (Project Reports)
+*.docx
+*.pdf
+*.txt
+!requirements.txt
+~$*
+
+# Local OS files
+.DS_Store
+Thumbs.db
